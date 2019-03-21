@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\module_07\module_07\obj\Debug\module_07.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\module_07\module_07\obj\Debug\module_07.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\module_07\module_07\bin\Debug\module_07.exe.config
+C:\Users\Windows10\source\repos\module_07\module_07\bin\Debug\module_07.exe
+C:\Users\Windows10\source\repos\module_07\module_07\bin\Debug\module_07.pdb
+C:\Users\Windows10\source\repos\module_07\module_07\bin\Debug\MyClassLib.dll
+C:\Users\Windows10\source\repos\module_07\module_07\bin\Debug\MyClassLib.pdb
+C:\Users\Windows10\source\repos\module_07\module_07\obj\Debug\module_07.csproj.CopyComplete
+C:\Users\Windows10\source\repos\module_07\module_07\obj\Debug\module_07.exe
+C:\Users\Windows10\source\repos\module_07\module_07\obj\Debug\module_07.pdb
